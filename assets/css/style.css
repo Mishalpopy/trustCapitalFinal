@@ -3318,7 +3318,21 @@ img {
   font-size: 4rem;
   color: #6A5206 ;
 }
-
+.services-section .service-grids .fa:before {
+  font-size: 60px;
+  font-size: 4rem;
+  color: #6A5206 ;
+}
+.services-section .service-grids .fa:before {
+  font-size: 60px;
+  font-size: 4rem;
+  color: #6A5206 ;
+}
+.services-section .service-grids .fa {
+  font-size: 60px;
+  font-size: 4rem;
+  color: #6A5206 ;
+}
 @media (max-width: 767px) {
   .services-section .service-grids .fi:before {
     font-size: 40px;
